@@ -1,0 +1,17 @@
+Challenge: Hidden Linux Firmware Flag
+
+You received a firmware image from a smart IoT device.
+The firmware contains a Linux root filesystem structure.
+
+Your task is to analyze the firmware and find the hidden flag.
+
+Tools you may find useful:
+- tar
+- binwalk
+- strings
+- hexdump
+- cat
+
+Flag format: flag{...}
+
+Difficulty: Medium
