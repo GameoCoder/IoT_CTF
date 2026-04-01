@@ -1,0 +1,1 @@
+flag{mqtt_anonymous_access}
